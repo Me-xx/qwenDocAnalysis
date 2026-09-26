@@ -1,0 +1,7 @@
+requests>=2.31
+torch>=2.4
+transformers>=4.45
+accelerate>=1.0
+bitsandbytes>=0.45
+Pillow>=10.0
+pdf2image>=1.17

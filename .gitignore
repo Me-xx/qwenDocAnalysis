@@ -1,0 +1,17 @@
+# Virtuelle Umgebung (lokal, nicht einchecken)
+.venv/
+venv/
+
+# Geheimnisse / lokale Konfiguration (enthaelt PAPERLESS_TOKEN)
+.env
+
+# Python-Artefakte
+__pycache__/
+*.py[cod]
+
+# Logs
+*.log
+
+# IDE
+.idea/
+.vscode/
